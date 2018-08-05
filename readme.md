@@ -26,3 +26,7 @@ StartStop - Starts or stops the robot (depending on current action)
 ## Dependancies (NuGet)
 - ManyConsole
 - Mono.Options
+
+## Powerpoint
+
+You can use Macro's in Powerpoint together with VBA code to run the console application so that you can control the robot from Powerpoint.
